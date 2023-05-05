@@ -66,21 +66,24 @@ shining a flashlight directly at the sensor. This simulates sunlight and gives a
 would be if it were directly under a light source. However, spearmint plants prefer shade therefore the 
 system reacts to the surrounding light exposure and prompts the user on what they should do to have a 
 full healthy plant (move to shade/move to sunlight). Using different live graphs and voltage readings I 
-was able to determine what the ideal conditions for the spearmint plant are. CONTINGENCY: Another 
-idea I had in mind for the major project involved the use of an air quality sensor to determine the quality 
-of the surrounding air. The issue with this idea was that the module is a lot more complicated than any 
-other module we have used in the past, and so I was unable to create a functioning air quality monitor 
-within the time limit. In the future I can give myself more time to figure out how to use new modules 
-and components to push myself, strengthening my creative problem-solving skills and forcing me to 
-become more of a critical thinker (related to ENG). ADDITIONAL MATERIAL: The reasoning behind the 
-creation of this smart plant alarm system was because in my household (as well as many others) I 
-noticed that many of our plants were sometimes forgotten about, resulting in dehydration and in turn 
-the end of the plant’s life. The location of the plants was also to blame. Places like the front/back door’s 
-temperature is constantly fluctuating as people enter/exit, creating an unsustainable environment for 
-the plants. Light deprivation caused the plants to grow slower, restricting the plant from fully blooming. 
-Even when caring for the plant to the best of your ability, you may simply misjudge the location of the 
+was able to determine what the ideal conditions for the spearmint plant are. 
+
+CONTINGENCY: Another idea I had in mind for the major project involved the use of an air quality sensor to 
+determine the quality of the surrounding air. The issue with this idea was that the module is a lot more 
+complicated than any other module we have used in the past, and so I was unable to create a functioning air 
+quality monitor within the time limit. In the future I can give myself more time to figure out how to use new 
+modules and components to push myself, strengthening my creative problem-solving skills and forcing me to 
+become more of a critical thinker (related to ENG). 
+
+ADDITIONAL MATERIAL: The reasoning behind the creation of this smart plant alarm system was because in my 
+household (as well as many others) I noticed that many of our plants were sometimes forgotten about, resulting 
+in dehydration and in turn the end of the plant’s life. The location of the plants was also to blame. Places 
+like the front/back door’s temperature is constantly fluctuating as people enter/exit, creating an unsustainable 
+environment for the plants. Light deprivation caused the plants to grow slower, restricting the plant from fully 
+blooming. Even when caring for the plant to the best of your ability, you may simply misjudge the location of the 
 plant or the water you give it. For these reasons, the smart plant alarm system is a phenomenal solution 
 to allowing your plants to live with the utmost efficiency, without the need to constantly be monitored. 
+
 CONCLUSION: The system successfully monitors a plant without the need for supervision, allowing the 
 plant to be entirely independent in the sense that it will monitor and look after itself. Anyone struggling 
 to raise plants of their own may see this as an efficient and easy method to providing the best care for 
@@ -95,12 +98,10 @@ Immersed in dry soil: 3.5 Volts.
 Immersed in water-saturated soil 3.2 Volts. 
 Immersed in a clear glass of water 2.5 Volts.
 
-
 Pump Timing Value:
 
 Pump: approx. 25mL / 5s → 5mL/s
 Therefore, 1L in 200s (3min 33s)
-
 
 Temperature Sensor Values (spearmint plant preference):
 
@@ -108,8 +109,9 @@ Hot: 21°C
 Cold: 13°C
 Pristine: 17°C
 
-
 Light Sensor Voltage Values:
 
 Sunlight: 1.5 Volts. 
 Dark: 0.5 Volts. 
+
+
