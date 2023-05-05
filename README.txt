@@ -36,11 +36,11 @@ COMPONENTS LIST: This project consists of the following components:
 	• MOSFET Board
 		o Used to power the pump (contains 9V battery connection).
 	• Buzzer (D5), LED (D4), LED (D13).
-		o Buzzer (D5) used as board communication and alarm system along with red LED (D4) to trigger alerts/warnings; green LED (D13) used to signify a healthy system.
+		o Buzzer (D5) used as board communication and alarm system along with red LED (D4) to trigger alerts/warnings; green LED (D13) used to signify a 		healthy system.
 	• Light Sensor
 		o Used to provide different voltage values based on surrounding light exposure.
 	• Temperature Sensor
-		o Used to read surrounding temperature to determine if it is too hot/cold and communicate with the user on whether the plant should be relocated or not (also sends signal to 5V fan to cool the plant down if needed).
+		o Used to read surrounding temperature to determine if it is too hot/cold and communicate with the user on whether the plant should be relocated or not 		(also sends signal to 5V fan to cool the plant down if needed).
 	• 5V Fan
 		o Receives signal to cool system down if temperature reading is warmer than preferred.
 
